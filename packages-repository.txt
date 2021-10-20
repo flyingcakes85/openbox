@@ -19,7 +19,7 @@ gvfs-google
 gvfs-gphoto2
 gvfs-nfs
 gvfs-smb
-termite
+xfce4-terminal
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
@@ -42,7 +42,6 @@ jq
 feh
 dunst
 arc-x-icons-theme
-arc-gtk-theme
 capitaine-cursors
 galculator
 gtk-engine-murrine
@@ -50,3 +49,4 @@ seahorse
 ttf-nerd-fonts-symbols
 xorg-xbacklight
 pasystray
+jgmenu
